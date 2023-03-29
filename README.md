@@ -1,6 +1,6 @@
-# canvas-painting
+# Canvas Painting
 
-A painting app using the HTML5 Canvas API to render “brush” strokes. You can see a simple example in this video.
+A painting app using the HTML5 Canvas API to render “brush” strokes.
 
 ## Features 
 
@@ -10,6 +10,7 @@ A painting app using the HTML5 Canvas API to render “brush” strokes. You can
 
 - Customise drawing settings: line width, line colour, line shape.
 - Download drawings as images.
+
 ## Learning outcomes 
 - JS Canvas API
 - Drag/swipe event handlers
